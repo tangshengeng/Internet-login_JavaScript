@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://github.com/tangshengeng/Internet-login_JavaScript/blob/master/JavaScript.png" width=40%>
+<img src="https://github.com/tangshengeng/Internet-login_JavaScript/blob/master/JavaScript.png" width=60%>
 </div>
 
 # Internet Login(JavaScript)
@@ -24,13 +24,13 @@ vim logInDcrom.js
 
 The main contents that need to be changed are as follows:
 ```
->>'DDDDD' : 'XXX', //Fill in the actual account here!!!
+    'DDDDD' : 'XXX', //Fill in the actual account here!!!
 ```
 ```
->>'upass' : 'XXX', //Fill in the actual password here!!!
+    'upass' : 'XXX', //Fill in the actual password here!!!
 ```
 ```
->>host: 'XXX.XXX.XXX.XXX', //Fill in the URL of the login page here!!!
+    host: 'XXX.XXX.XXX.XXX', //Fill in the URL of the login page here!!!
 ```
 # Login the Internet
 ```
